@@ -1,6 +1,6 @@
 ## Unsupervised Techniques
 
-7 exercise projects to learn basics of Unsupervised machiine learning techniques and follow the lectures of Machine Learning Unsupervised Techniques.
+7 exercise projects to learn basics of Unsupervised machine learning techniques and follow the lectures of Machine Learning Unsupervised Techniques.
 
 - Estimation Theory, Fisher information, CRLB
 - Maximum Likelihood
